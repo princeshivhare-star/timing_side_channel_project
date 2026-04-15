@@ -1,0 +1,13 @@
+experiment,batch_size,num_layers,avg_time_sec
+batch_size_leakage,1,2,2.4772079195827247e-05
+batch_size_leakage,4,2,5.819791927933693e-05
+batch_size_leakage,8,2,5.3540000226348636e-05
+batch_size_leakage,16,2,7.142166956327855e-05
+batch_size_leakage,32,2,5.7017089566215874e-05
+batch_size_leakage,64,2,7.444708026014269e-05
+batch_size_leakage,128,2,0.00019325750065036118
+model_depth_leakage,32,1,6.746791070327162e-05
+model_depth_leakage,32,2,5.7080419501289726e-05
+model_depth_leakage,32,4,0.00013002207968384027
+model_depth_leakage,32,8,0.00015283458051271737
+model_depth_leakage,32,12,0.0002441620803438127
